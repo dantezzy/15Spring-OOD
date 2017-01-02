@@ -1,0 +1,1 @@
+devenv XmlDocument.sln /rebuild debug 
