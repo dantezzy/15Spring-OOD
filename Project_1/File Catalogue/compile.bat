@@ -1,0 +1,1 @@
+devenv FileCatalogue.sln /rebuild debug 
